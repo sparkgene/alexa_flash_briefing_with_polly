@@ -1,0 +1,15 @@
+.DS_Store
+func.zip
+
+boto3*
+botocore*
+concurent
+dateutil
+docutils*
+futures*
+jmespath*
+python_dateutil*
+s3transfer*
+six*
+beautifulsoup*
+bs4*
