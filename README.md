@@ -2,4 +2,4 @@
 
 This projects brings Japanese to Amazon Alexa.
 
-![diagram](https://raw.githubusercontent.com/sparkgene/alexa_flash_briefing_with_polly/diagram.png)
+![diagram](https://github.com/sparkgene/alexa_flash_briefing_with_polly/raw/master/diagram.png)
