@@ -3,7 +3,7 @@ func.zip
 
 boto3*
 botocore*
-concurent
+concurrent
 dateutil
 docutils*
 futures*
